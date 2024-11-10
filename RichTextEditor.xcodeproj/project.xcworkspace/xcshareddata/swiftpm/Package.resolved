@@ -1,0 +1,15 @@
+{
+  "originHash" : "862023cb79e28809f0ed67e1c1c75000db6a0527cdb6a8d7cbfebee78911d7a4",
+  "pins" : [
+    {
+      "identity" : "swiftymarkdown",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SimonFairbairn/SwiftyMarkdown",
+      "state" : {
+        "revision" : "dde451ab4ed9b77b328e21baa471fdfa0cf61369",
+        "version" : "1.2.4"
+      }
+    }
+  ],
+  "version" : 3
+}
